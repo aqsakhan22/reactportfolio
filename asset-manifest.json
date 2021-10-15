@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/aqsakhan22/reactportfolio/static/css/main.2260eca7.chunk.css",
+    "main.js": "/aqsakhan22/reactportfolio/static/js/main.2b45f33c.chunk.js",
+    "main.js.map": "/aqsakhan22/reactportfolio/static/js/main.2b45f33c.chunk.js.map",
+    "runtime-main.js": "/aqsakhan22/reactportfolio/static/js/runtime-main.18e2961d.js",
+    "runtime-main.js.map": "/aqsakhan22/reactportfolio/static/js/runtime-main.18e2961d.js.map",
+    "static/js/2.2acc6190.chunk.js": "/aqsakhan22/reactportfolio/static/js/2.2acc6190.chunk.js",
+    "static/js/2.2acc6190.chunk.js.map": "/aqsakhan22/reactportfolio/static/js/2.2acc6190.chunk.js.map",
+    "static/js/3.e031db09.chunk.js": "/aqsakhan22/reactportfolio/static/js/3.e031db09.chunk.js",
+    "static/js/3.e031db09.chunk.js.map": "/aqsakhan22/reactportfolio/static/js/3.e031db09.chunk.js.map",
+    "index.html": "/aqsakhan22/reactportfolio/index.html",
+    "static/css/main.2260eca7.chunk.css.map": "/aqsakhan22/reactportfolio/static/css/main.2260eca7.chunk.css.map",
+    "static/js/2.2acc6190.chunk.js.LICENSE.txt": "/aqsakhan22/reactportfolio/static/js/2.2acc6190.chunk.js.LICENSE.txt",
+    "static/media/man.6c7b03f8.png": "/aqsakhan22/reactportfolio/static/media/man.6c7b03f8.png",
+    "static/media/right-arrow.4a3b0519.png": "/aqsakhan22/reactportfolio/static/media/right-arrow.4a3b0519.png",
+    "static/media/shake.c7165a1f.svg": "/aqsakhan22/reactportfolio/static/media/shake.c7165a1f.svg",
+    "static/media/youtube.0a327a8b.png": "/aqsakhan22/reactportfolio/static/media/youtube.0a327a8b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18e2961d.js",
+    "static/js/2.2acc6190.chunk.js",
+    "static/css/main.2260eca7.chunk.css",
+    "static/js/main.2b45f33c.chunk.js"
+  ]
+}
