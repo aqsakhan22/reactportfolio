@@ -1,0 +1,73 @@
+@import url("../../global.css");
+.topbar {
+  color: var(--maincolor);
+  height: 70px;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  /* padding:t r b l */
+  top: 0;
+  z-index: 3;
+  transition: all 1s ease;
+}
+
+.wrappertopbar {
+  display: flex;
+  padding: 10px 30px;
+  align-items: center;
+  justify-content: space-between;
+}
+.wrappertopbar .topbarleft {
+  display: flex;
+  align-items: center;
+}
+
+.wrappertopbar .topbarleft .topbarlogo {
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+  margin-right: 40px;
+}
+
+.topbarleft .topbarlogo {
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+  margin-right: 40px;
+}
+
+.wrappertopbar .topbarleft .topbaritemContainer {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.wrappertopbar .topbarleft .topbaritemContainer .topbaricons {
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+.wrappertopbar .topbarleft .topbaritemContainerspan {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.wrappertopbar .topbarright .hamburger {
+  width: 70px;
+  height: 70px;
+
+  cursor: pointer;
+}
+/*.wrapper .right .hamburger span {
+  width: 100%;
+  height: 3px;
+  background-color: var(--maincolor);
+} */
+.wrappertopbar .topbarright .hamburger .menuicon {
+  font-size: 50px;
+}
+.active {
+  background-color: var(--maincolor);
+  color: white;
+}

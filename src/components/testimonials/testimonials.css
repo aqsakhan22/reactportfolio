@@ -1,0 +1,80 @@
+.testimonials {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.testh1 {
+  font-size: 50px;
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+.containertest {
+  width: 100%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cardtest {
+  width: 250px;
+  height: 60%;
+  box-shadow: 0px 0px 15px -8px black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px;
+  transition: all 1s ease-in-out;
+}
+.featured {
+  width: 300px;
+  height: 75%;
+  margin: 0 30px;
+}
+
+.cardtest:hover {
+  transform: scale(1.1);
+}
+.toptest {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.leftimg {
+  height: 25px;
+  width: 25px;
+}
+.rightimg {
+  height: 25px;
+  width: 25px;
+}
+.userimg {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 30px;
+}
+.centertest {
+  padding: 10px;
+  background-color: rgb(230, 139, 157);
+  color: white;
+  border-radius: 10px;
+}
+.bottomtest {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.bottomtest .h3test {
+  margin-bottom: 5px;
+}
+.bottomtest h4 {
+  color: crimson;
+}

@@ -1,0 +1,38 @@
+@import url("../../global.css");
+.menuitem {
+  background-color: var(--maincolor);
+
+  width: 300px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: -300px;
+  z-index: 2;
+  display: flex;
+  flex: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 1s ease;
+}
+.menuactive {
+  right: 0;
+}
+.menuul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+  width: 50%;
+}
+
+.menuul .menuli {
+  margin-bottom: 20px;
+}
+.menuul .menuli .menua {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+}
+.menuul .menua:hover {
+  font-weight: 500;
+}
